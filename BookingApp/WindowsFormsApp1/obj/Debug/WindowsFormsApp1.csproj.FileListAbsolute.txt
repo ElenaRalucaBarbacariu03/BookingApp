@@ -1,0 +1,10 @@
+C:\Users\barba\Desktop\C#-extra-apps\BookingApp\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\barba\Desktop\C#-extra-apps\BookingApp\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\barba\Desktop\C#-extra-apps\BookingApp\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\barba\Desktop\C#-extra-apps\BookingApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\barba\Desktop\C#-extra-apps\BookingApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\barba\Desktop\C#-extra-apps\BookingApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\barba\Desktop\C#-extra-apps\BookingApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\barba\Desktop\C#-extra-apps\BookingApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\barba\Desktop\C#-extra-apps\BookingApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\barba\Desktop\C#-extra-apps\BookingApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
